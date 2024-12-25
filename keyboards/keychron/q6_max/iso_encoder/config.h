@@ -43,8 +43,8 @@
 #    define RGB_MATRIX_BRIGHTNESS_TURN_OFF_VAL 32
 
 /* Indications */
-#    define NUM_LOCK_INDEX 36
-#    define CAPS_LOCK_INDEX 59
+/*#    define NUM_LOCK_INDEX 36 Commented out to remove white light as I coded a different indicator */
+/*#    define CAPS_LOCK_INDEX 59 Commented out to remove white light as I coded a different indicator */
 #    define LOW_BAT_IND_INDEX \
         { 99 }
 
